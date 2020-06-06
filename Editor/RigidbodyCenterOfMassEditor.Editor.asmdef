@@ -1,0 +1,17 @@
+{
+    "name": "RigidbodyCenterOfMassEditor.Editor",
+    "references": [
+        "GUID:82f26132c37a5ed4a80fdbb22a7f013e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

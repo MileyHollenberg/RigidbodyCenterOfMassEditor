@@ -1,0 +1,17 @@
+{
+  "name": "io.megamiley.rigidbody-center-of-mass-editor",
+  "version": "1.0.0",
+  "displayName": "Rigidbody Center Of Mass Editor",
+  "description": "Allows you to change the Center of Mass of a Rigidbody inside the editor",
+  "unity": "2018.1",
+  "keywords": [
+    "editor",
+    "rigidbody",
+    "center of mass"
+  ],
+  "author": {
+    "name": "Miley Hollenberg",
+    "email": "mileyhollenberg@gmail.com",
+    "url": "https://github.com/MileyHollenberg/RigidbodyCenterOfMassEditor"
+  }
+}
